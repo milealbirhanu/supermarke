@@ -138,7 +138,7 @@ public class Main {
                 String again = sc.nextLine();
 
                 if (again.equalsIgnoreCase("no")) {
-                    System.out.println("Thank you for buying!");
+                    System.out.println("Thank you for buying!"+ name);
                     running = false;
                 }
             }
