@@ -9,7 +9,6 @@ public class Main {
 
         boolean running = true;
 
-        // 👤 NAME INPUT
         String name;
 
         while (true) {
@@ -36,7 +35,6 @@ public class Main {
             int choice = sc.nextInt();
             sc.nextLine();
 
-            // 🍔 FOOD (RANDOM PRICE)
             if (choice == 1) {
 
                 System.out.println("\nFOOD WE HAVE:");
