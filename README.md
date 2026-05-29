@@ -112,5 +112,7 @@ Added: apple (Food) - 24.0 birr | 3 days left
 
 **Mileal Birhanu**  
 GitHub: [@milealbirhanu](https://github.com/milealbirhanu) 
+
+
 **Mana Tekie**  
 GitHub: 
