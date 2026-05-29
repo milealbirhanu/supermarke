@@ -1,7 +1,12 @@
 import java.util.ArrayList;
 
 public class Cart {
-
+    //ArrayList<Product>
+   // a list that stores many Product objects 
+    //items
+    //name of the list (like cart name)
+    //new ArrayList<>()
+    //creates an empty list in memory
     ArrayList<Product> items = new ArrayList<>();
 
     public void addProduct(Product p) {
