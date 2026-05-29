@@ -115,4 +115,4 @@ GitHub: [@milealbirhanu](https://github.com/milealbirhanu)
 
 
 **Mana Tekie**  
-GitHub: 
+GitHub: https://github.com/manatekie56-oss
